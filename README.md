@@ -93,4 +93,4 @@ If the node is not found, then the program should say:
 
 For item #6 above, exit, the program should traverse the linked list, and write all the data back to the file.
 
-The name of this program shall be prog2.c
+
